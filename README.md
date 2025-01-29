@@ -1,4 +1,4 @@
-# Doctor Appointment System
+# Doctor Appointment System (w/ Microservises)
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -9,6 +9,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [video link](https://drive.google.com/file/d/1B2jbbtYT6TSkJRV5DxI2sJnx50VMzQDb/view?usp=drive_link)
+
+## If you'd like to run this application locally, please make sure to create a firebase-config.json file. If you'd prefer, I can email it to you. For security reasons, I'm not sharing API keys directly in this repository. If you don't create or obtain the configuration file (firebase-config.json), the backend services won't function properly. This file contains essential Firebase API keys and project details required to connect to the backend, handle authentication, database operations, and other Firebase features.
+
+![Ekran görüntüsü 2025-01-29 151245](https://github.com/user-attachments/assets/755723c9-562a-4e6e-a159-d5494083a046)
+![Ekran görüntüsü 2025-01-29 151306](https://github.com/user-attachments/assets/4a449a11-da39-464d-898c-a6124fba7a75)
+![Ekran görüntüsü 2025-01-29 151330](https://github.com/user-attachments/assets/ce94be82-3362-45c9-b57e-2b97ccaf1e8b)
+![Ekran görüntüsü 2025-01-29 151410](https://github.com/user-attachments/assets/5dcc37e8-5572-47bc-b414-391c6ebf72d3)
+![Ekran görüntüsü 2025-01-29 151419](https://github.com/user-attachments/assets/dc3e0dc7-2e66-46b6-9c0d-a998a9b6177a)
+
 
 ## Project Overview
 
